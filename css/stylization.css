@@ -27,7 +27,7 @@ h2{
 }
 
 .nav ul li {
-		float: center;
+		float: middle;
 }
 
 li{
@@ -38,6 +38,6 @@ li{
 
 img {
   width: 35%;
-  height: 35%
+  height: 35%;
   padding-bottom: 5%;
 }
