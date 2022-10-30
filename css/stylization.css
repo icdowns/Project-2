@@ -27,7 +27,12 @@ h2{
 }
 
 .nav ul li {
-		float: middle;
+		display: block;
+		text-align: center;
+		padding: 16px;
+		text-decoration: none;
+		float: left;
+		vertical-align: middle;
 }
 
 li{
