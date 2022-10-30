@@ -1,0 +1,30 @@
+body{
+		text-align: left;
+		background-image: url(../b286a65bfc482ebc7b3138dbb6568b37.jpg);
+		background-size: 50%;
+		color: #000080;
+}
+
+h1{
+		position: relative;
+		text-align: center;
+}
+
+h2{
+		position: relative;
+		text-align: center;
+}
+
+.nav ul {
+  overflow: hidden;
+  list-style-type: none;
+  display: inline-block;
+  padding: 0;
+  margin: 0;
+  position: relative;
+  border-style: inset;
+}
+
+.nav ul li {
+	float: center;
+}
