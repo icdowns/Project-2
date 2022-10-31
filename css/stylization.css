@@ -35,6 +35,24 @@ h2{
 		vertical-align: middle;
 }
 
+.nav ul li a {
+		display: block;
+		background-color: white;
+		color: #fff;
+		font-weight: bold;
+		text-decoration: none;
+		text-align: center;
+		width: 100px;
+		padding: 10px 0px 8px 0px;
+		border-radius: 4px;	
+}
+
+.nav ul li a:hover{
+		background-color: #FF4500;
+		color: yellow;
+		border-radius: 20px;
+}
+
 li{
 		padding: 0 0 1% 0;
 		list-style: square;
