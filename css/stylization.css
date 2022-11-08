@@ -49,12 +49,6 @@ nav ul li a:hover{
 		border-radius: 20px;
 }
 
-li{
-		padding: 0 0 1% 0;
-		list-style: square;
-		list-style: inside;
-}
-
 img {
   width: 35%;
   height: 35%;
