@@ -10,7 +10,7 @@ h1{
 		text-align: center;
 		font-size: 2.5em;
 		float: right;
-		width: 100px;
+		width: 750px;
 		padding: 10px 0px 8px 0px;
 		border-radius: 4px;
 		position: relative;
@@ -19,7 +19,7 @@ h1{
 
 p{
 		background-color: yellow;
-		width: 100px;
+		width: 750px;
 		padding: 10px 0px 8px 0px;
 		border-radius: 4px;
 		text-align: center;
@@ -30,7 +30,7 @@ h2{
 		position: relative;
 		text-align: center;
 		float: right;
-		width: 100px;
+		width: 750px;
 		padding: 10px 0px 8px 0px;
 		border-radius: 4px;	
 		position: relative;
